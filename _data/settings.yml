@@ -1,24 +1,24 @@
 #-------------------------------
 # General Site Settings
 title: Le Backlog du Daron
-description: Zolan is modern minimal theme for Jekyll
+description: Tests de jeux, pas toujours récents (jamais), vus par un daron.
 
 #-------------------------------
 # Author Settings
 author:
   name: Bnnoy
-  image: 01.jpg
+  image: daron.jpg
   say-hello: Bienvenue sur le <strong>Backlog du Daron</strong> !
-  bio: Designs, talks, and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
+  bio: Concilier la vie de <strong>daron</strong> et la vie de <strong>gamer</strong>, c'est possible ! C'est l'affaire de quelques ajustements. Pour ma part, fini les jeux multi chronophages, et <strong>bonjour</strong> les expériences solo ! Alors venez fouiller avec moi dans mon <strong>backlog</strong> beaucoup trop rempli pour y dénicher quelques pépites.
 
 
 #-------------------------------
 # Contact links
-twitter: https://twitter.com/ # Add your Twitter handle
-facebook: https://facebook.com/ # Add your Facebook handle
-dribbble: https://dribbble.com/ # Add your Dribbble handle
-instagram: https://instagram.com/ # Add your Instagram handle
-pinterest: https://pinterest.com/ # Add your Pinterest handle
+#twitter: https://twitter.com/ # Add your Twitter handle
+#facebook: https://facebook.com/ # Add your Facebook handle
+#dribbble: https://dribbble.com/ # Add your Dribbble handle
+#instagram: https://instagram.com/ # Add your Instagram handle
+#pinterest: https://pinterest.com/ # Add your Pinterest handle
 
 
 #-------------------------------
