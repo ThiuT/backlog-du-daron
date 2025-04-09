@@ -1,0 +1,41 @@
+#-------------------------------
+# General Site Settings
+title: Le Backlog du Daron
+description: Tests de jeux, pas toujours récents (jamais), vus par un daron.
+
+#-------------------------------
+# Author Settings
+author:
+  name: Bnnoy
+  image: daron.jpg
+  say-hello: Bienvenue sur le <strong>Backlog du Daron</strong> !
+  bio: Concilier la vie de <strong>daron</strong> et la vie de <strong>gamer</strong>, c'est possible ! C'est l'affaire de quelques ajustements. Pour ma part, fini les jeux multi chronophages, et <strong>bonjour</strong> les expériences solo ! Alors venez fouiller avec moi dans mon <strong>backlog</strong> beaucoup trop rempli pour y dénicher quelques pépites.
+
+
+#-------------------------------
+# Contact links
+#twitter: https://twitter.com/ # Add your Twitter handle
+#facebook: https://facebook.com/ # Add your Facebook handle
+#dribbble: https://dribbble.com/ # Add your Dribbble handle
+#instagram: https://instagram.com/ # Add your Instagram handle
+#pinterest: https://pinterest.com/ # Add your Pinterest handle
+
+
+#-------------------------------
+# Comment Section (Disqus)
+# disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+
+#-------------------------------
+# Instagram Feed
+# instafeed: # To enable the instafeed, use the value true. To turn off use the value false.
+# instagram-profile: artemsheludko_ # Add instagram username
+
+
+#-------------------------------
+# Google Analytics
+# google-analytics: # Add your identifier. For example UA-99631805-1.
+
+
+#-------------------------------
+# Newsletter
+# mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
