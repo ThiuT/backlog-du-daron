@@ -1,3 +1,6 @@
+title: Le Backlog du Daron
+description: Tests de jeux, pas toujours récents (jamais), vus par un daron.
+
 # Build settings
 markdown: kramdown
 permalink: pretty
@@ -5,6 +8,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll/tagging
+  - jekyll-feed
 
 paginate: 5
 paginate_path: "/page/:num"
