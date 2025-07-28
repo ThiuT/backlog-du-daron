@@ -10,7 +10,7 @@ La scène du jeu vidéo indépendant est peuplé de création dont l'idée de d�
 
 Undertale s'est rapidement imposé comme un incontournable de la scène indé, dépassant le cadre vidéoludique pour devenir une référence omniprésente sur le net, ne serait-ce que pour les innombrables vidéos de reprises de son incroyable bande originale. Alors avec 10 ans de retard sur le train de la hype, et alors que sortent les derniers chapitre de son spin-off Deltarune, voyons voir de quoi il en retourne.
 
-### Titre
+### Of Monsters and Men
 
 Il y a bien longtemps, les humains et les monstres vivaient en harmonie. Mais un jour, une guerre éclata et les monstres, vaincus, furent bannis dans les profondeurs de l'Outremonde, sous le mont Ebott, et enfermés par une barrière magique. 
 
@@ -20,7 +20,7 @@ On incarne un enfant qui fait une chute lors d'une promenade sur le mont, et tom
 
 Il faudra donc la convaincre de nous laisser partir, puis traverser l'Outremonde pour atteindre la sortie, et trouver un moyen de traverser la barrière magique, gardée par le roi Asgore Dreemur...
 
-### Titre
+### Là-haut, sous la montagne
 
 Undertale est un RPG 2D délicieusement rétro dans son design et ses interfaces. Il reprend la grammaire du genre : une caméra du dessus mais des personnages de profil, de l'exploration, des dialogues textuels et du combat au tour par tour. Avec toutefois un twist venu de la passion de Toby Fox pour les shoot'em up : le tour de l'adversaire se transforme en mini-jeu de *bullet hell*. On dirige alors le coeur représentant notre personnage à l'aide des flèches directionnelles et on essaie d'éviter les attaques. Et chaque combat de boss vient rajouter des mécaniques additionnelles, rendant les derniers combats assez éprouvants !
 
@@ -31,7 +31,7 @@ Mais surtout, conformément à la proposition du jeu, l'interface de combat prop
 
 Undertale est un jeu à fins multiples, qu'il faudra découvrir en finissant le jeu une première fois (ou en regardant sur le Wiki...). La séquence de fin à toutefois la gentillesse de nous donner des indices sur ce qu'on a raté pour débloquer la "vraie" fin, aussi appelée "True Pacifist", et qui demandera comme son nom l'indique de ne tuer personne mais aussi de compléter certaines quêtes secondaires. Inversement, il y a également une route "Genocide" consistant à tuer chaque ennemi et boss rencontré...
 
-### Titre
+### Méta-ton
 
 Outre l'originalité de son système de combat qui rend chaque adversaire unique et chaque combat dynamique, Undertale se démarque avant tout par son écriture et sa musique. Toby Fox est un brillant compositeur remarqué pour ses mélodies redoutablement efficaces et mémorables, au point d'avoir travaillé avec le studio Game Freak sur les deux derniers Pokemon, rien que ça ! La bande originale de Undertale met son talent à l'honneur, avec plusieurs thèmes fort très identifiables réarrangés selon les situations et les ambiances. Si le morceau "Megalovania" est sans conteste le plus connu, "Death by Glamour" et "Asgore" (surtout la mise en scène qui l'accompagne), n'ont rien à lui envier ! Les sonorités mélangent des synthés rappelant l'époque 16-bits avec des instruments reconnaissables, mais toujours avec un côté lo-fi qui colle parfaitement à la direction artistique. Le sound design n'est pas en reste, en particulier les bruitages qui accompagnent l'apparition des dialogues, uniques pour chaque personnage et qui leur confèrent une identité propre.
 
