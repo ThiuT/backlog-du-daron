@@ -6,7 +6,7 @@ date: 2025-07-28
 image: undertale/main.jpg
 ---
 
-La scène du jeu vidéo indépendant est peuplé de création dont l'idée de départ est de rentre hommage à un jeu ou un style généralement rétro, mais avec une proposition originale. Dans le cas d'Undertale : le RPG et la possibilité de terminer le jeu sans tuer personne. Une proposition suffisamment intrigante pour permettre à son créateur Toby Fox de lever plus de 50 000$ sur Kickstarter, soit 10 fois l'objectif fixé.
+La scène du jeu vidéo indépendant est peuplé de création dont l'idée de départ est de rendre hommage à un jeu ou un style généralement rétro, mais avec une proposition originale. Dans le cas d'Undertale : le RPG et la possibilité de terminer le jeu sans tuer personne. Une proposition suffisamment intrigante pour permettre à son créateur Toby Fox de lever plus de 50 000$ sur Kickstarter, soit 10 fois l'objectif fixé.
 
 Undertale s'est rapidement imposé comme un incontournable de la scène indé, dépassant le cadre vidéoludique pour devenir une référence omniprésente sur le net, ne serait-ce que pour les innombrables vidéos de reprises de son incroyable bande originale. Alors avec 10 ans de retard sur le train de la hype, et alors que sortent les derniers chapitre de son spin-off Deltarune, voyons voir de quoi il en retourne.
 
