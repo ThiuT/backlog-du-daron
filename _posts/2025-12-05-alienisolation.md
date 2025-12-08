@@ -2,7 +2,7 @@
 layout: post
 title: "Alien: Isolation"
 description: "The Creative Assembly - 2014 - Testé sur PC"
-date: 2025-11-06
+date: 2025-12-05
 image: alien/main.png
 ---
 
@@ -26,7 +26,7 @@ Alien: Isolation est un jeu d'horreur à la première personne qui mélange les 
 ![]({{ site.baseurl }}/images/alien/alien.jpg)
 *L'ennui dans les jeux vidéo, c'est qu'on voit très souvent la dernière chose qu'on voit avant de mourir...*
 
-Le xénomorphe est la pièce maîtresse pour pousser ce gameplay, car être repéré conduit quasi-systématiquement à un game over. Il est insensible à la plupart de nos armes, nous rattrape sans effort à la course, peut ramper dans les conduits et ouvrir les casier s'il nous voit y entrer. Progresser dans Sébastopol sans se faire attraper constitue la boucle de gameplay principale du jeu, la sensation d'impuissance face à l'alien et la rapidité avec laquelle la mort survient à la moindre erreur servant étant les moteurs de la peur.
+Le xénomorphe est la pièce maîtresse pour pousser ce gameplay, car être repéré conduit quasi-systématiquement à un game over. Il est insensible à la plupart de nos armes, nous rattrape sans effort à la course, peut ramper dans les conduits et ouvrir les casier s'il nous voit y entrer. Progresser dans Sébastopol sans se faire attraper constitue la boucle de gameplay principale du jeu, la sensation d'impuissance face à l'alien et la rapidité avec laquelle la mort survient à la moindre erreur étant les moteurs de la peur.
 
 ### Je suis la mère du monstre
 
