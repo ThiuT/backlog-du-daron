@@ -2,7 +2,7 @@
 layout: post
 title: "Bloodborne"
 description: "From Software - 2015 - Testé sur PS4"
-date: 2026-01-05
+date: 2026-01-14
 image: bloodborne/main.jpg
 ---
 
@@ -14,6 +14,9 @@ Lorsque j'ai eu l'occasion de me procurer à nouveau le jeu, non seulement cette
 
 On incarne un voyageur nouvellement arrivé à Yarnham, pour y recevoir la miraculeuse thérapie du Sang censée guérir tous les maux. Il suffit de signer un étrange contrat, et la transfusion peut commencer. Après un bad trip digne des pires paralysies du sommeil, on se réveille dans une clinique apparemment déserte, à l'exception du monstre qui rôde au rez-de-chaussée. Bien qu'il soit techniquement possible de le vaincre à mains nues, c'est normalement ici que l'on meurt...
 
+![]({{ site.baseurl }}/images/bloodborne/youdied.webp)
+*Ce lettrage rouge se retrouvera bientôt gravé dans votre rétine à force de le voir...*
+
 ...pour réapparaître immédiatement dans le Rêve du Chasseur. On apprend ainsi que le contrat signé fait de nous un Chasseur, dont l'âme est à présent liée au Rêve et y reviendra à chaque décès dans le "monde éveillé". On nous explique qu'un abus de thérapie du Sang a changé la majorité des habitants de Yarnham en monstres, et qu'il est maintenant de notre devoir de nettoyer la ville. 
 
 Au cours de notre Chasse, on découvrira que le Sang miraculeux est celui des Grands, sortes de divinités cauchemardesques fortement inspirées de l'oeuvre de H.P. Lovecraft. Les érudits de Byrgenwerth, ayant découvert l'existence des Grands, se sont lancés dans toutes sortes d'expériences pour s'élever à leur connaissance et leur puissance (la thérapie du Sang parmi elles). L'objectif ultime de la chasse sera d'y mettre un terme et de s'assurer que les Grands ne puissent pas accomplir leur plus grand dessein : utiliser un hôte humain pour se reproduire.
@@ -22,11 +25,17 @@ Au cours de notre Chasse, on découvrira que le Sang miraculeux est celui des Gr
 
 Dans la plus grande tradition de From Software, Bloodborne est avare de son histoire, pourtant incroyablement riche, distillée au compte goutte dans quelques dialogues cryptiques et les descriptions des objets. Le jeu compense cependant par une grande générosité dans son ambience et son storytelling environnemental. La ville de Yarnham est une merveille d'architecture gothique, alternant entre d'immenses ponts ouverts sur un panorama somptueux et les ruelles sombres et écrasantes de la vieille ville. L'exploration est fortement encouragée, et souvent récompensée par l'obtention d'objets rare à la fois utiles et dont la description nous en apprend un peu plus sur l'univers.
 
+![]({{ site.baseurl }}/images/bloodborne/decor.webp)
+*Les décors sont sublimes et angoissants à souhait !*
+
 Outre son aspect esthétique, le level design de Yarnham est tout aussi impressionnant. La ville est un véritable labyrinthe qui se prête à merveille au système de progression classique des Souls-like : avancer suffisamment loin dans une zone permettra soit de découvrir un nouveau point de passage, soit d'ouvrir un raccourci vers un point de passage déjà découvert, afin de pouvoir rapidement aller plus loin lors de la prochaine exploration. Pour autant, il y a suffisamment de points de repères pour ne pas (trop) se perdre. Sans compter que la difficulté du jeu demandera souvent plusieurs tentatives pour atteindre le point suivant, alors à force on finit par connaître certaines zones sur le bout des doigts !
 
 ### Vivre. Mourir. Recommencer.
 
 Parlons donc de la difficulté : car oui, Bloodborne est un jeu difficile. Déjà par son absence quasi-totale de tutoriel (une série de messages au sol au début du jeu expliquent brièvement les contrôles, et c'est tout). Mais surtout, à l'instar des Souls, par son gameplay exigeant. Comme ses prédécesseurs, Bloodborne est un action-RPG. Les combats se jouent en temps réel, avec plusieurs types d'attaque dépendant de votre arme, la sacro-sainte roulade permettant d'esquiver, et une mécanique de parade, ici basée sur une arme à feu. Avec toujours le même aspect *high risk / high reward* : les parades demandent un timing bien précis (au moment ou l'adversaire abat son bras/appendice pour frapper), un succès permettant une puissante riposte, mais un échec menant quasi-systématiquement à prendre le coup. Bloodborne se démarque des autres Souls par sa mécanique de Ralliement, les PV perdus pouvant être récupérés en attaquant pendant un court laps de temps, encourageant encore plus l'agressivité et la prise de risque. Tout ceci faisant de Bloodborne un jeu de type *die and retry* : il sera quasi obligatoire de prendre des coups et mourir pour apprendre les animations d'attaque des adversaires et les timings permettant d'esquiver ou parer.
+
+![]({{ site.baseurl }}/images/bloodborne/boss.jpg)
+*Le premier boss rencontré par la plupart des joueurs est aussi... parfaitement optionnel ! Mais il constitue un bon entraînement à se battre contre un machin de 4m faisant de grands mouvements erratiques.*
 
 L'aspect RPG sera lui aussi fondamental, monter de niveau et augmenter ses statistiques permettant à la fois de raccourcir les combats en infligeant plus de dégâts et permettre plus d'erreurs en pouvant encaisser plus de coups. Là encore, il s'agira soit d'être familier avec la série, soit d'aller se renseigner sur le web, afin de comprendre l'importance des différentes stats ainsi que leur interaction avec les armes, et construire un *build* correct qui vous facilitera grandement le jeu. 
 
