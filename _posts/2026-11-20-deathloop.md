@@ -2,7 +2,7 @@
 layout: post
 title: "Deathloop"
 description: "Arkane - 2021 - Testé sur PC"
-date: 2026-10-26
+date: 2026-11-20
 image: deathloop/main.webp
 ---
 
